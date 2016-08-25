@@ -1,13 +1,13 @@
 .fotos {
 	width: 100%;
 	position: relative;
-	left: 350px;
+	left: 363px;
 	top: 30px;
 }
 
 .coders {
 	margin-top: 60px;
-	margin-left: 350px;
+	margin-left: 363px;
 	font-family: initial;
 	font-size: 20px;
 }
@@ -28,9 +28,10 @@
 }
 
 .nombr {
+	font-size: 12px;
 	position: relative;
-	top: 180px;
-	left: 70px;
+	top: 183px;
+	left: 105px;
 	color:#FFFFFF;
 }
 
